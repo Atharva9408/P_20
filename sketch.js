@@ -14,7 +14,7 @@ car=createSprite(50,200,50,50);
 car.velocityX=speed;
 
 wall=createSprite(1200,200,60,200);
-wall.shapeColor=(80,80,80);
+wall.shapeColor=("brown");
 
 }
 function draw()
